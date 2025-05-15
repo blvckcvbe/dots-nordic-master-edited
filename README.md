@@ -13,5 +13,5 @@ in a shell script in ´/etc/profile.d/´, if not, either symlink it with ´$HOME
 
 
 For the zshrc to be loaded properly, you should add ´ZDOTDIR="${XDG_CONFIG_HOME:-$HOME/.config}/zsh"´ to ´/etc/zsh/zshrc´
-(sometimes placess in ´/etc/zshrc´). Also note that it requires certian files and folers to exist. I recommend
-cloing oh-my-zsh into ´$HOME/.zsh´.
+(sometimes placess in ´/etc/zshrc´). Also note that it requires certian files and folders to exist. I recommend
+cloning oh-my-zsh into ´$HOME/.zsh´.
