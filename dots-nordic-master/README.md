@@ -1,7 +1,7 @@
 # dots-nordic
 
-My configuration files to use with i3+picom, using the Nord color palate.
-
+My configuration files to use with i3+picom, using the Nord color palette. I'm using this config on a laptop running CachyOS.
+If you're using a non-arch based distro, it may or may not work properly.
 
 
 NOTE: The ´Configurations´ folder assumes you have 
